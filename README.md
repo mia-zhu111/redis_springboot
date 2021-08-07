@@ -48,4 +48,4 @@ Maven Repository: import com.fasterxml.jackson.datatype.joda.cfg.
 错误2：
 java.net.ConnectException: Connection refused  
 解决2:
-在中断redis-service开启redis
+在终端redis-service开启redis，cd /user/local/bin目录下
